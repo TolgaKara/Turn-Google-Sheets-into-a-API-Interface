@@ -22,14 +22,14 @@
 - [] Link Sheet to extension
 - [] Publish Extension into Google
 
-## ::hammer_and_wrench: Support
+## :hammer_and_wrench: Support
 
 Please [open an issue](https://github.com/TolgaKara/{RepoName}/issues/new) for support.
 
-## ::memo: Contributing
+## :memo: Contributing
 
 **You can freely contribute to the Project.**
 
-## ::scroll: Licence
+## :scroll: Licence
 
 This project is licensed under the MIT License
